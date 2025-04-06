@@ -32,3 +32,11 @@ resume_analyzer/
 ├── requirements.txt      # Python dependencies
 └── README.md             # You’re here!
 # Resume_analyzer
+```
+
+## 🧪 Run Locally
+```bash
+git clone https://github.com/yourusername/resume-analyzer.git
+cd resume-analyzer
+pip install -r requirements.txt
+streamlit run app.py
